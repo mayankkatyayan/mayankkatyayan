@@ -6,7 +6,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mayank Katyayan
 ======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<h4>A Full-Stack developer | Front-end developer </h4>
 
 - 🔭 I’m currently working on a React Project
 - 🌱 I’m Interested to work on React Tailwind CSS
@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=f
 
 # Badges 
 
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
+[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile]([https://www.holopin.io/@mayankkatyayan#])](https://holopin.io/@dipayansarkar47)
 
 <b>My GitHub Stats</b>
 
