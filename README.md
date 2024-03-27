@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=f
 
 # Badges 
 
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile]([https://www.holopin.io/@mayankkatyayan#])](https://www.holopin.io/@mayankkatyayan#)
+[![An image of @mayankkatyayan's Holopin badges, which is a link to view their full Holopin profile]([https://www.holopin.io/@mayankkatyayan#])](https://www.holopin.io/@mayankkatyayan#)
 
 <b>My GitHub Stats</b>
 
