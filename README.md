@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayankkatyayan
 - 👀 I’m interested in building projects, providing software servies and programming.
 - 🌱 I’m currently pursuing B. Tech.
--     [Portfolio](https://mayankkatyayan.netlify.app/)
+- 📂 Portfolio: (https://mayankkatyayan.netlify.app/)
 - 💞️ I’m looking to work for the Software Development and Software Engineering roles.
 - 📫 Contact me mayank.katyayan123@gmail.com
 
